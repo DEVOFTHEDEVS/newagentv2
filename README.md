@@ -1,4 +1,4 @@
-# Antfarm
+# YERKFARM
 
 <img src="https://raw.githubusercontent.com/snarktank/antfarm/main/landing/logo.jpeg" alt="Antfarm" width="80">
 
